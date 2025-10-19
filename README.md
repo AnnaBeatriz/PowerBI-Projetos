@@ -1,4 +1,4 @@
-# 📊 Projeto Power BI - RID223685_Desafio01
+# 📊 Projeto Power BI
 
 **`Análise de Inteligência de Dados`**  
 💼 Desenvolvido no Power BI como parte do desafio. O objetivo é criar dashboards interativos para transformar dados em insights estratégicos.
